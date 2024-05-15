@@ -1,0 +1,180 @@
+{
+    "stages": 
+    [
+        {
+            "name": "Stage 1",
+            "index": 1,
+            "levels": 
+            [
+                {
+                    "name": "Gateway to WEB3.0",
+                    "index": 1,
+                    "chapters":
+                    [
+                        {
+                            "name": "What is Bitcoin?",
+                            "index_hidden": 1,
+                            "summary": "Description Bitcoin is a decentralized digital currency that was created in 2009 by an anonymous."
+                        },
+                        {
+                            "name": "Blockchain technology",
+                            "index_hidden": 2,
+                            "summary": "This is a test summary about 'Blockchain technology' chapter."
+                        },
+                        {
+                            "name": "Gateway into WEB 3 World",
+                            "index_hidden": 3,
+                            "summary": "This is a test summary about 'Gateway into WEB 3 World' chapter."
+                        }
+                    ]
+                },
+                {
+                    "name": "Platform",
+                    "index": 2,
+                    "chapters":
+                    [
+                        {
+                            "name": "Centralized Exchange",
+                            "index_hidden": 1,
+                            "summary": "This is a test summary about 'Centralized Exchange' chapter."
+                        },
+                        {
+                            "name": "Decentralized Exchange",
+                            "index_hidden": 2,
+                            "summary": "This is a test summary about 'Decentralized Exchange' chapter."
+                        },
+                        {
+                            "name": "Infer-sturcture",
+                            "index_hidden": 3,
+                            "summary": "This is a test summary about 'Infer-sturcture' chapter."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Stage 2",
+            "index": 2,
+            "levels": 
+            [
+                {
+                    "name": "Level 3",
+                    "index": 3,
+                    "chapters":
+                    [
+                        {
+                            "name": "Chapter 1",
+                            "index_hidden": 1,
+                            "summary": "This is a test summary about 'Chapter 1' chapter."
+                        },
+                        {
+                            "name": "Chapter 2",
+                            "index_hidden": 2,
+                            "summary": "This is a test summary about 'Chapter 2' chapter."
+                        },
+                        {
+                            "name": "Chapter 3",
+                            "index_hidden": 3,
+                            "summary": "This is a test summary about 'Chapter 3' chapter."
+                        }
+                    ]
+                },
+                {
+                    "name": "Level 4",
+                    "index": 4,
+                    "chapters":
+                    [
+                        {
+                            "name": "Chapter 1",
+                            "index_hidden": 1,
+                            "summary": "This is a test summary about 'Chapter 1' chapter."
+                        },
+                        {
+                            "name": "Chapter 2",
+                            "index_hidden": 2,
+                            "summary": "This is a test summary about 'Chapter 2' chapter."
+                        },
+                        {
+                            "name": "Chapter 3",
+                            "index_hidden": 3,
+                            "summary": "This is a test summary about 'Chapter 3' chapter."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Stage 3",
+            "index": 3,
+            "levels": 
+            [
+                {
+                    "name": "Level 5",
+                    "index": 5,
+                    "chapters":
+                    [
+                        {
+                            "name": "Chapter 1",
+                            "index_hidden": 1,
+                            "summary": "This is a test summary about 'Chapter 1' chapter."
+                        },
+                        {
+                            "name": "Chapter 2",
+                            "index_hidden": 2,
+                            "summary": "This is a test summary about 'Chapter 2' chapter."
+                        },
+                        {
+                            "name": "Chapter 3",
+                            "index_hidden": 3,
+                            "summary": "This is a test summary about 'Chapter 3' chapter."
+                        }
+                    ]
+                },
+                {
+                    "name": "Level 6",
+                    "index": 6,
+                    "chapters":
+                    [
+                        {
+                            "name": "Chapter 1",
+                            "index_hidden": 1,
+                            "summary": "This is a test summary about 'Chapter 1' chapter."
+                        },
+                        {
+                            "name": "Chapter 2",
+                            "index_hidden": 2,
+                            "summary": "This is a test summary about 'Chapter 2' chapter."
+                        },
+                        {
+                            "name": "Chapter 3",
+                            "index_hidden": 3,
+                            "summary": "This is a test summary about 'Chapter 3' chapter."
+                        }
+                    ]
+                },
+                {
+                    "name": "Level 7",
+                    "index": 7,
+                    "chapters":
+                    [
+                        {
+                            "name": "Chapter 1",
+                            "index_hidden": 1,
+                            "summary": "This is a test summary about 'Chapter 1' chapter."
+                        },
+                        {
+                            "name": "Chapter 2",
+                            "index_hidden": 2,
+                            "summary": "This is a test summary about 'Chapter 2' chapter."
+                        },
+                        {
+                            "name": "Chapter 3",
+                            "index_hidden": 3,
+                            "summary": "This is a test summary about 'Chapter 3' chapter."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
